@@ -1,0 +1,28 @@
+
+.custom-nav{
+    background-color: white;
+    border-bottom: 2px;
+    solid-color: blue;
+}
+.brand {
+    max-height: 60px;
+    max-width: 30%;
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.main{
+    color: #2e6da4;
+}
+footer{
+    text-align: center;
+    margin-top: 2em;
+    border-top: 2px solid #2e6da4;
+    color: #2e6da4;
+}
+#btncolapse{
+    color: #2e6da4;
+}
+.top-offset{
+    margin-top: 2em;
+}
